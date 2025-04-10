@@ -58,7 +58,7 @@ ALBERT — это улучшенная версия модели BERT (Bidirecti
 ![image](https://github.com/user-attachments/assets/ee61de78-4a0c-4448-9e9d-d2841e8f9fc0)
 
 <p align="center">  
-Рисунок 2 - Эмбеддинги
+Рисунок 2 - Эмбеддинги. Предложение, конвертированное в последовательность токенов
 </p>
 
 ## 2. Эмбеддинг ALBERT
@@ -126,9 +126,11 @@ ALBERT можно использовать для множества задач 
 
 ## Список использованных источников
 
-1.  Хайкин, С. Нейронные сети : полный курс / С. Хайкин. – 2-е изд., испр. – Москва : Вильямс, 2006. – 1104 с.
-2.  Гудфеллоу, А. Глубокое обучение / А. Гудфеллоу, И. Бенджио, А. Курвилль ; пер. с англ. – Москва : ДМК Пресс, 2018. – 652 с.
-3.  Рассел, С. Искусственный интеллект: современный подход / С. Рассел, П. Норвиг ; пер. с англ. – 2-е изд. – Москва : Вильямс, 2006. – 1408 с.
-4.  Иванов, Д. А. Анализ и прогнозирование временных рядов с использованием нейронных сетей / Д. А. Иванов // Информационные технологии. – 2018. – № 4. – С. 25-29.
-5.  Петров, В. В. Разработка экспертной системы для диагностики заболеваний / В. В. Петров, С. И. Сидоров // Искусственный интеллект и принятие решений. – 2020. – № 2. – С. 15-22.
-6.  Сергеев, А. С. Применение генетических алгоритмов для оптимизации параметров нейронных сетей / А. С. Сергеев // Проблемы управления. – 2019. – № 5. – С. 30-35.
+1. Хайкин, С. Нейронные сети: полный курс / С. Хайкин. – 2-е изд., испр. – Москва: Вильямс, 2006. – 1104 с.
+Гудфеллоу, А., Бенджио, И., Курвилль, А. Глубокое обучение / А. Гудфеллоу, И. Бенджио, А. Курвилль; пер. с англ. – Москва: ДМК Пресс, 2018. – 652 с.
+2. Рассел, С., Норвиг, П. Искусственный интеллект: современный подход / С. Рассел, П. Норвиг; пер. с англ. – 2-е изд. – Москва: Вильямс, 2006. – 1408 с.
+3. Ivanov, D.A. Analysis and forecasting of time series using neural networks / D.A. Ivanov // Information Technologies. – 2018. – No 4. – Pp. 25-29.
+4. Petrov, V.V., Sidorov, S.I. Development of an expert system for disease diagnosis / V.V. Petrov, S.I. Sidorov // Artificial Intelligence and Decision Making. – 2020. – No 2. – Pp. 15-22.
+Sergeev, A.S. Application of genetic algorithms for optimizing neural network parameters / A.S. Sergeev // Control Problems. – 2019. – No 5. – Pp. 30-35.
+5. Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K., BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding // arXiv preprint arXiv:1810.04805 (2018).
+6. Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, K., & Soricut, R., ALBERT: A Lite BERT for Self-supervised Learning of Language Representations // arXiv preprint arXiv:1909.11942 (2019).
