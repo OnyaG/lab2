@@ -112,13 +112,9 @@ ALBERT можно использовать для множества задач 
 
 ![image_2025-05-07_11-45-49](https://github.com/user-attachments/assets/dbc58cfb-cca8-4f42-a586-3afb3f29b234)
 
-<p align="center">
-Рисунок 4 - Оценка качества модели
-</p>
-
 Результаты обучения модели представлены на рисунке 5.
 
-![image_2025-05-07_11-45-49](https://github.com/user-attachments/assets/3f47e304-6183-4035-aed3-d80662e11d92)
+![image_2025-05-07_11-42-04](https://github.com/user-attachments/assets/729cb81c-60cd-4110-8341-3429aaa2fa19)
 
 <p align="center">  
 Рисунок 5 - Результаты
