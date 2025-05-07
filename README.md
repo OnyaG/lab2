@@ -110,15 +110,17 @@ ALBERT можно использовать для множества задач 
 
 В результате выполнения лабораторной работы были получены эмбеддинги Albert и построена нейронная сеть на их основе. Оценка качества модели на тесте (Accuracy, Precision, Recall, F1-Score) приведена на рисунке 4.
 
-<p align="center">
 ![image_2025-05-07_11-45-49](https://github.com/user-attachments/assets/dbc58cfb-cca8-4f42-a586-3afb3f29b234)
+
+<p align="center">
 Рисунок 4 - Оценка качества модели
 </p>
 
 Результаты обучения модели представлены на рисунке 5.
 
+![image_2025-05-07_11-45-49](https://github.com/user-attachments/assets/3f47e304-6183-4035-aed3-d80662e11d92)
+
 <p align="center">  
-![image_2025-05-07_11-42-04](https://github.com/user-attachments/assets/0214bccd-e1c0-4c62-8568-21c3e4eac120)
 Рисунок 5 - Результаты
 </p>
 
