@@ -138,3 +138,10 @@ ALBERT можно использовать для множества задач 
 2. https://habr.com/ru/articles/524814/
 3. https://huggingface.co/docs/transformers/index
 4. Пикалёв Я. С. АДАПТАЦИЯ НЕЙРОСЕТЕВОЙ МОДЕЛИ ALBERT ДЛЯ ЗАДАЧИ ЯЗЫКОВОГО МОДЕЛИРОВАНИЯ / Я. С. Пикалёв, Т. В.Ермоленко. – Донецк: Проблемы искусственного интеллекта, 2020. – № 3. – С. 111–120.
+5. Хайкин, С. Нейронные сети: полный курс / С. Хайкин. – 2-е изд., испр. – Москва: Вильямс, 2006. – 1104 с.
+7. Рассел, С., Норвиг, П. Искусственный интеллект: современный подход / С. Рассел, П. Норвиг; пер. с англ. – 2-е изд. – Москва: Вильямс, 2006. – 1408 с.
+8. Ivanov, D.A. Analysis and forecasting of time series using neural networks / D.A. Ivanov // Information Technologies. – 2018. – No 4. – Pp. 25-29.
+9. Petrov, V.V., Sidorov, S.I. Development of an expert system for disease diagnosis / V.V. Petrov, S.I. Sidorov // Artificial Intelligence and Decision Making. – 2020. – No 2. – Pp. 15-22.
+10. Sergeev, A.S. Application of genetic algorithms for optimizing neural network parameters / A.S. Sergeev // Control Problems. – 2019. – No 5. – Pp. 30-35.
+11. Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K., BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding // arXiv preprint arXiv:1810.04805 (2018).
+12. Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, K., & Soricut, R., ALBERT: A Lite BERT for Self-supervised Learning of Language Representations // arXiv preprint arXiv:1909.11942 (2019).
