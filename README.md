@@ -121,7 +121,7 @@ ALBERT можно использовать для множества задач 
 Результаты обучения модели представлены на рисунке 5.
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/729cb81c-60cd-4110-8341-3429aaa2fa19" alt="Результаты">
+    <img src="https://github.com/user-attachments/assets/d71b1c3b-0c34-4232-8796-a61337facae0" alt="Результаты">
     <br>
     Рисунок 5 - Результаты
 </p>
